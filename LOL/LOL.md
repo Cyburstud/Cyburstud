@@ -7,4 +7,4 @@ date: 2021-12-24
 
 # Tutorials
 
-{% include_relative LOL/Github-Learning-Lab.md %}
+{% include_relative Github-Learning-Lab.md %}
