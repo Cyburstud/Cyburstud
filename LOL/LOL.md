@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "LOL (List of Links)"
 date: 2021-12-24
 ---
