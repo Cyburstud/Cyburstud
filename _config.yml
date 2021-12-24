@@ -5,6 +5,8 @@ author: Bradley Anderson
 email: cyburstud@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The github profile page for Cyburstud. Mainly reflecting and referencing current public projects in the works of development, references to information or material he wants to share as well as quirky coding. 
+include:
+  - LOL
 
 # social links
 twitter_username: cyburstud # DO NOT include the @ character, or else the build will fail!
