@@ -4,6 +4,6 @@ layout: default
 
 # Reference
 
-# Tutorials
+## Tutorials
 
 {% include Github-Learning-Lab.md %}
