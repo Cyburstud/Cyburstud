@@ -1,5 +1,3 @@
-# Personal Developer Github Site for Cyburstud
-    
 ## Personal Projects that are Active
 
 Regretably I'm currently working on personal projects at this time. Hope to contribute to open source projects in the near future. 
