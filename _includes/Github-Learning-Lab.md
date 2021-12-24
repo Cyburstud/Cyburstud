@@ -1,7 +1,4 @@
----
-title: "LOL: Github Learning Labs"
-date: 2021-12-24
----
+##### Github-Learning-Lab
 
 The following list of tutorials/labs to take are incredibly useful with getting familiar with github. Recommend to do all of them as soon as initially having to visit github.
 
