@@ -6,4 +6,4 @@ layout: default
 
 # Tutorials
 
-{% include_relative Github-Learning-Lab.md %}
+{% include Github-Learning-Lab.md %}
