@@ -10,4 +10,10 @@ Resources Publicly Available I Reference or Maintain
 
 * Starting my own company at this time
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyburstud)](https://github.com/cyburstud/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyburstud&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyburstud&theme=tokyonight)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=cyburstud.cyburstud)
+
+[![Github](https://img.shields.io/github/followers/cyburstud?label=Follow&style=social)](https://github.com/cyburstud)
