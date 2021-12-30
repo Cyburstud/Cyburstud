@@ -10,7 +10,7 @@ Resources Publicly Available I Reference or Maintain
 
 * Starting my own company at this time
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyburstud&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyburstud&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyburstud&theme=tokyonight)
 
