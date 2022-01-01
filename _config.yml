@@ -3,7 +3,6 @@ title: Never Stop Developing
 description: Personal developer blog for Cyburstud - Bradley Anderson
 author: Bradley Anderson
 email: cyburstud@gmail.com
-baseurl: cyburstud.github.io/Cyburstud
 include:
   - LOL
   - _posts
