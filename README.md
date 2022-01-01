@@ -4,7 +4,7 @@ Regretably I'm currently working on personal projects at this time. Hope to cont
 
 Resources Publicly Available I Reference or Maintain
 
-[Github Page](https://cyburstud.github.io/Cyburstud/)
+[Github Page](https://cyburstud.github.io/)
 
 ## Pursuing Interests
 
