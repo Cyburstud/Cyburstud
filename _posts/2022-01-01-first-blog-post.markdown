@@ -2,7 +2,9 @@
 layout: post
 title: "First blog post"
 subtitle: "Hopefully the Dawn after Dark Times"
-date: 2021-12-24 00:20:00 -0000
+date: 2022-01-01 00:00:00 -0000
+category: introduction
+tags: ["introduction", "whoamI"]
 ---
 
 So much has happened in the past 2 years, to everyone. Everyone has had to bottle too many details over time and so I'll attempt to refrain from making this into a sobbing post. But I will claim that these at least so far, have been the worst 2 years of my life. The constant dread of the pandemic really amplified the darkness and selfishness of humanity that I witnessed not only in public but with my close friends, former family, and even colleagues. So much that it feels like the one thing I could rely on consistently was neglected and abused: Technology
