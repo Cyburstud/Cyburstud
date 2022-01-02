@@ -6,6 +6,10 @@ Resources Publicly Available I Reference or Maintain
 
 [Github Page](https://cyburstud.github.io/)
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Pursuing Interests
 
 * Starting my own company at this time
@@ -17,3 +21,4 @@ Resources Publicly Available I Reference or Maintain
 ![](https://visitor-badge.laobi.icu/badge?page_id=cyburstud.cyburstud)
 
 [![Github](https://img.shields.io/github/followers/cyburstud?label=Follow&style=social)](https://github.com/cyburstud)
+
