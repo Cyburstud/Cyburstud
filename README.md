@@ -8,6 +8,7 @@ Resources Publicly Available I Reference or Maintain
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [First blog post](https://cyburstud.github.io/introduction/2022/01/01/first-blog-post.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pursuing Interests
