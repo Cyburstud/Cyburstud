@@ -1,6 +1,6 @@
-## Personal Projects that are Active
+## Most recent activities
 
-Regretably I'm currently working on personal projects at this time. Hope to contribute to open source projects in the near future. 
+Been in the process of updating the tutorial for Vue.js framework for VSCode. Hope to have it updated to submit a pull request in time. Recently things have been incredibly busy. 
 
 Resources Publicly Available I Reference or Maintain
 
